@@ -2,36 +2,14 @@
 
 ## Restaurants
 
-### Best Ribs
-* White Trash Fast Food: You should go on the weekends, the play live music. [(web)](http://whitetrashfastfood.com/) [(Location)](https://goo.gl/maps/7BWeFakK5uJ2) 
-
-### Burgers
-* Rebel Room [(Location)](https://goo.gl/maps/7XWMjm7o1EG2)
-* Marien Burger [(Location)](https://goo.gl/maps/axaqjeZvuau)
-* Shiso Burger [(web)](http://en.shisoburger.de/shisoburger/) [(Location)](https://goo.gl/maps/gwWgovX2jJD2)
-* The Bird [(Location)](https://goo.gl/maps/xqE7rbJHPVx)
-
-### German
-* Max und Moritz [(web)](http://maxundmoritzberlin.de/) [(Location)](https://goo.gl/maps/Cn8XwGbQya32)
-
-### Mexican
-* Maria Bonita Mexican Bistro [(Location)](https://goo.gl/maps/wWr7DMYcrWB2)
-
-### Pasta/Pizza
-* Giannis Pasta-Bar [(web)](http://www.giannis-pastabar.de/) [(Location)](https://goo.gl/maps/gEK9Vsrz3KR2)
-* Zefiro Ristorante [(Location)](https://goo.gl/maps/NgXwBtpGzPP2)
-
-### Russian
-* Restaurant Pasternak [(Location)](https://goo.gl/maps/iEGXXu2QAC52)
-
-### Shushi
-* King King [(Location)](https://goo.gl/maps/6Hw8VQ3Fie42)
-
-### Spanish
-* Bar Raval [(web)](http://barraval.de) [(Location)]()
-
-### Vietnamesse
-* Monsieur Vuong [(Location)](https://goo.gl/maps/QmwSgwk1kCN2)
+* Asian Restaurants [(Google Maps)](https://goo.gl/maps/emJ8a7M5X4aKYhwx8)
+* Brunch Restaurants/Bakeries [(Google Maps)](https://goo.gl/maps/g2JZ3etpxc4RodvJ8)
+* German Restaurants [(Google Maps)](https://goo.gl/maps/A7A6KWic7yeb96g6A)
+* Indian Restaurants [(Google Maps)](https://goo.gl/maps/ePYEAwmdn6D75gwv8)
+* Italian Restaurants [(Google Maps)](https://goo.gl/maps/NC3UF1qWS23kjSWx8)
+* Kebab Restaurants [(Google Maps)](https://goo.gl/maps/4YbcATHGLZhtnebLA)
+* Spanish Restaurans [(Google Maps)](https://goo.gl/maps/xFvzxtnZEoeJp4wT6)
+* ... More Restaurants [(Gooogle Maps)](https://goo.gl/maps/hknjPnWW2kbohwcz8)
 
 ## Parks
 
@@ -60,6 +38,7 @@
 * Buy beer and drink it in a park with your friends and also while you are walking in the street.
 * BBQ at Tempelhof [(Location)](https://goo.gl/maps/5xvSKfkrvNm)
 * Go to a Beer Garden. For ex: [(Prater Garten Berlin)](https://goo.gl/maps/Z3gJSgetibG2)
+* More places to visit [(Google Maps)](https://goo.gl/maps/cdQZxtMk6TEJfAtx7)
 
 ## Party
 * Pirates (mainstream) [(web)](http://www.piratesberlin.com/)
@@ -72,7 +51,8 @@
 * Roses [(Location)](https://goo.gl/maps/9CP7GMabdo72)
 * SilverFuture [(Location)](https://goo.gl/maps/nk6fpW1ckbK2)
 
-## Shops
+* More Clubs [(Google Maps)](https://goo.gl/maps/GDWmkPouzHTNd4Aw9)
+
 
 ### Bikes
 * Second Hand - [(web)](http://www.bikeparkberlin.de/)
