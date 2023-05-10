@@ -9,11 +9,12 @@
 * Italian Restaurants [(Google Maps)](https://goo.gl/maps/NC3UF1qWS23kjSWx8)
 * Kebab Restaurants [(Google Maps)](https://goo.gl/maps/4YbcATHGLZhtnebLA)
 * Spanish Restaurans [(Google Maps)](https://goo.gl/maps/xFvzxtnZEoeJp4wT6)
+* More fancy Restaurants [(Google Maps)](https://goo.gl/maps/opcsivubqFBXvd9t7)
 * ... More Restaurants [(Gooogle Maps)](https://goo.gl/maps/hknjPnWW2kbohwcz8)
 
 ## Parks
 
-* MauerPark [(Location)](https://www.google.de/maps/place/Flohmarkt+im+Mauerpark/@52.5412502,13.400245,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851f9c464270b:0xfd474800a0415901!8m2!3d52.541247!4d13.402439) Spent a few hours in Mauerpark on a sunny saturday or sunday (walk over the flewmarket, eat fresh food they sell at the foot markets and enjoy the free karaoke show ;) )
+* MauerPark [(Location)](https://www.google.de/maps/place/Flohmarkt+im+Mauerpark/@52.5412502,13.400245,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851f9c464270b:0xfd474800a0415901!8m2!3d52.541247!4d13.402439) Spend a few hours in Mauerpark on a sunny saturday or sunday (walk over the flewmarket, eat fresh food they sell at the foot markets and enjoy the free karaoke show ;) )
 
 ## Turistic Places
 
